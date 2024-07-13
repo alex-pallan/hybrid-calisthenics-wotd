@@ -1,0 +1,237 @@
+{
+  "days": {
+    "Monday": {
+      "workouts": [
+        {
+          "name": "Pushups",
+          "subtypes": [
+            {
+              "name": "Wall Pushups",
+              "level": 1,
+              "video_url": "videos/pushups/1-wall-pushups.mp4"
+            },
+            {
+              "name": "Incline Pushups",
+              "level": 2,
+              "video_url": "videos/pushups/2-incline-pushups.mp4"
+            },
+            {
+              "name": "Advanced Incline Pushups",
+              "level": 3,
+              "video_url": "videos/pushups/3-advanced-incline-pushups.mp4"
+            },
+            {
+              "name": "Knee Pushups",
+              "level": 4,
+              "video_url": "videos/pushups/4-knee-pushups.mp4"
+            },
+            {
+              "name": "Full Pushups",
+              "level": 5,
+              "video_url": "videos/pushups/5-full-pushups.mp4"
+            },
+            {
+              "name": "Narrow Pushups",
+              "level": 6,
+              "video_url": "videos/pushups/6-narrow-pushups.mp4"
+            },
+            {
+              "name": "Side-Staggered Pushups",
+              "level": 7,
+              "video_url": "videos/pushups/7-side-staggered-pushups.mp4"
+            },
+            {
+              "name": "Archer Pushups",
+              "level": 8,
+              "video_url": "videos/pushups/8-archer-pushups.mp4"
+            },
+            {
+              "name": "Sliding One-Arm Pushups",
+              "level": 9,
+              "video_url": "videos/pushups/9-sliding-one-arm-pushups.mp4"
+            },
+            {
+              "name": "One-Arm Pushups",
+              "level": 10,
+              "video_url": "videos/pushups/10-one-arm-pushups.mp4"
+            },
+            {
+              "name": "Advanced One-Arm Pushups",
+              "level": 11,
+              "video_url": "videos/pushups/11-advanced-one-arm-pushups.mp4"
+            }
+          ]
+        },
+        {
+          "name": "Leg Raises",
+          "subtypes": [
+            {
+              "name": "Knee Raises",
+              "level": 1,
+              "video_url": "videos/leg-raises/1-knee-raises.mp4"
+            },
+            {
+              "name": "Advanced Knee Raises",
+              "level": 2,
+              "video_url": "videos/leg-raises/2-advanced-knee-raises.mp4"
+            },
+            {
+              "name": "Alternating Leg Raises",
+              "level": 3,
+              "video_url": "videos/leg-raises/3-alternating-leg-raises.mp4"
+            },
+            {
+              "name": "Full Leg Raises",
+              "level": 4,
+              "video_url": "videos/leg-raises/4-full-leg-raises.mp4"
+            },
+            {
+              "name": "Tuck Plow Raises",
+              "level": 5,
+              "video_url": "videos/leg-raises/5-tuck-plow-raises.mp4"
+            },
+            {
+              "name": "Plow Raises",
+              "level": 6,
+              "video_url": "videos/leg-raises/6-plow-raises.mp4"
+            },
+            {
+              "name": "Hanging Knee Raises",
+              "level": 7,
+              "video_url": "videos/leg-raises/7-hanging-knee-raises.mp4"
+            },
+            {
+              "name": "Advanced Hanging Knee Raises",
+              "level": 8,
+              "video_url": "videos/leg-raises/8-advanced-hanging-knee-raises.mp4"
+            },
+            {
+              "name": "Hanging Leg Raises",
+              "level": 9,
+              "video_url": "videos/leg-raises/9-hanging-leg-raises.mp4"
+            },
+            {
+              "name": "Toe to Bars",
+              "level": 10,
+              "video_url": "videos/leg-raises/10-toe-to-bars.mp4"
+            }
+          ]
+        }
+      ]
+    },
+    "Tuesday": {
+      "workouts": [
+        {
+          "name": "Pullups",
+          "subtypes": [
+            {
+              "name": "Wall Pullups",
+              "level": 1,
+              "video_url": "videos/pullups/1-wall-pullups.mp4"
+            },
+            {
+              "name": "Horizontal Pullups",
+              "level": 2,
+              "video_url": "videos/pullups/2-horizontal-pullups.mp4"
+            },
+            {
+              "name": "Advanced Horizontal Pullups",
+              "level": 3,
+              "video_url": "videos/pullups/3-advanced-horizontal-pullups.mp4"
+            },
+            {
+              "name": "Jackknife Pullups",
+              "level": 4,
+              "video_url": "videos/pullups/4-jackknife-pullups.mp4"
+            },
+            {
+              "name": "Full Pullups",
+              "level": 5,
+              "video_url": "videos/pullups/5-full-pullups.mp4"
+            },
+            {
+              "name": "Narrow Pullups",
+              "level": 6,
+              "video_url": "videos/pullups/6-narrow-pullups.mp4"
+            },
+            {
+              "name": "One Hand Pullups",
+              "level": 7,
+              "video_url": "videos/pullups/7-one-hand-pullups.mp4"
+            },
+            {
+              "name": "Advanced One Hand Pullups",
+              "level": 8,
+              "video_url": "videos/pullups/8-advanced-one-hand-pullups.mp4"
+            },
+            {
+              "name": "Archer Pullups",
+              "level": 9,
+              "video_url": "videos/pullups/9-archer-pullups.mp4"
+            },
+            {
+              "name": "One-Arm Pullups",
+              "level": 10,
+              "video_url": "videos/pullups/10-one-arm-pullups.mp4"
+            }
+          ]
+        },
+        {
+          "name": "Squats",
+          "subtypes": [
+            {
+              "name": "Jackknife Squats",
+              "level": 1,
+              "video_url": "videos/squats/1-jackknife-squats.mp4"
+            },
+            {
+              "name": "Assisted Squats",
+              "level": 2,
+              "video_url": "videos/squats/2-assisted-squats.mp4"
+            },
+            {
+              "name": "Half Squats",
+              "level": 3,
+              "video_url": "videos/squats/3-half-squats.mp4"
+            },
+            {
+              "name": "Full Squats",
+              "level": 4,
+              "video_url": "videos/squats/4-full-squats.mp4"
+            },
+            {
+              "name": "Narrow Squats",
+              "level": 5,
+              "video_url": "videos/squats/5-narrow-squats.mp4"
+            },
+            {
+              "name": "Side Staggered Squats",
+              "level": 6,
+              "video_url": "videos/squats/6-side-staggered-squats.mp4"
+            },
+            {
+              "name": "Front Staggered Squats",
+              "level": 7,
+              "video_url": "videos/squats/7-front-staggered-squats.mp4"
+            },
+            {
+              "name": "Assisted One Leg Squats",
+              "level": 8,
+              "video_url": "videos/squats/8-assisted-one-leg-squats.mp4"
+            },
+            {
+              "name": "One Leg Chair Squats",
+              "level": 9,
+              "video_url": "videos/squats/9-one-leg-chair-squats.mp4"
+            },
+            {
+              "name": "One Leg Squats",
+              "level": 10,
+              "video_url": "videos/squats/10-one-leg-squats.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
